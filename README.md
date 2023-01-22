@@ -51,3 +51,16 @@ $ npm i       // npm install packages
 $ node index.js // run it locally
 ```
 ## Screenshots
+
+#Home Screen
+![Screenshot (372)](https://user-images.githubusercontent.com/91122689/213912885-65fdb7ba-0bc7-4898-8c60-f43c8110acf6.png)
+
+#Adding Books
+![Screenshot (370)](https://user-images.githubusercontent.com/91122689/213912929-0c683e98-3a50-4f27-8a06-bc9806f1c00e.png)
+
+#All Books Screen
+![Screenshot (371)](https://user-images.githubusercontent.com/91122689/213912902-c085e6f6-1c4e-4058-92cf-5c4af2b1a53f.png)
+
+###End
+
+
